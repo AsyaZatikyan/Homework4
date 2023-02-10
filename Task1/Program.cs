@@ -40,3 +40,4 @@ int Exponentiation(int numberA, int numberB)
   int exponentiation = Exponentiation(numberA, numberB);
   Console.WriteLine("Ответ: " + exponentiation);
 
+
